@@ -2,7 +2,7 @@
 
 ![Framework Target: Transparency](https://img.shields.io/badge/Target-Transparency-blue.svg)
 
-*   **創作者 (Author):** 歐志賢 (Andy Ou) - 15 年 IT 資訊人與 15 年木工職人雙重背景。
+* **創作者 (Author):** [歐志賢 (Andy Ou) - 15 年 IT 資訊人與 15 年木工職人雙重背景](https://www.liying.tw/andy-ou-dr-oh-google-ai-search-black-box-research-l001/)。
 *   **實證基地 (Lab Baseline):** 儷鶯閣 台灣鶯歌老街門市
 *   **技術框架對接:** 採用 Google AI Search 內容基礎模型 之積木階層。
 
